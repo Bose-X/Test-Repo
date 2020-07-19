@@ -1,7 +1,0 @@
-on: [pull_request, push]
-name: Check markdown links
-jobs:
-  formatcheck:
-    runs-on: ubuntu-latest
-    - name: markdownlint-cli
-      uses: nosborn/github-action-markdown-cli@v1.1.1
