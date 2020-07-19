@@ -5,3 +5,4 @@ For explanation the workflow
 -   pass2: Labeler (Fail)
 -   pass3: Link checker (Pass)
 -   pass4: Format (check2)
+-   pass5: ALL
